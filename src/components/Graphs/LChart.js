@@ -6,7 +6,7 @@ import {
   LineChart,
   Tooltip,
   XAxis,
-  YAxis,
+  
 } from "recharts";
 import { filterDataByMonth } from "../../util";
 

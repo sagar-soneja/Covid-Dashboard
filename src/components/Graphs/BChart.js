@@ -6,7 +6,7 @@ import {
   Legend,
   Tooltip,
   XAxis,
-  YAxis,
+  
 } from "recharts";
 import { filterDataByMonth } from "../../util";
 

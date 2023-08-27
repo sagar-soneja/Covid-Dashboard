@@ -3,7 +3,6 @@ import { useSelector } from "react-redux";
 import {
   structureData,
   strucuteCurratedData,
-  filterDataByMonth,
 } from "../../util";
 import PChart from "./PChart";
 import BChart from "./BChart";
